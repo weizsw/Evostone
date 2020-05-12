@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JiKAB6SKiZ0YBYYBIACgdYbulRKS0dLMNyAdOSg+aJSd09QGvobdhnd6yrfIeBvPf9lrLwH3AppkWYqlsDcwkw==",
+  "success": true,
+  "projectFilePath": "/Users/hc/Desktop/Evostone-master/SabberStoneUtil/SabberStoneUtil.csproj",
+  "expectedPackageFiles": [
+    "/Users/hc/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/hc/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/hc/.nuget/packages/nett/0.12.0/nett.0.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

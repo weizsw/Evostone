@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{27D55131-9355-4C05-8D05-70955607C21B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StrategySearch/src/Search/DistributedSearch.cs">
+    <Files>
+      <File FileName="StrategySearch/src/Search/DistributedSearch.cs" Line="189" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvoStone" expanded="True">
+            <Node name="StrategySearch" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="Search" expanded="True">
+                  <Node name="DistributedSearch.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DeckEvaluator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

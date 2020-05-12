@@ -1,0 +1,4 @@
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.csprojAssemblyReference.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.AssemblyInfoInputs.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.AssemblyInfo.cs

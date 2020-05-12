@@ -1,0 +1,34 @@
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.deps.json
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.runtimeconfig.json
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.runtimeconfig.dev.json
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneCore.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneUtil.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneUtil.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneCore.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.csprojAssemblyReference.cache
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.csproj.CoreCompileInputs.cache
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.AssemblyInfoInputs.cache
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.AssemblyInfo.cs
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.csproj.CopyComplete
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.genruntimeconfig.cache
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.deps.json
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.runtimeconfig.json
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.runtimeconfig.dev.json
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.dll
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/DeckSearch.pdb
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneCore.dll
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneUtil.dll
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneUtil.pdb
+/Users/hc/Desktop/Evostone-master/DeckSearch/bin/Release/netcoreapp2.1/SabberStoneCore.pdb
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.csprojAssemblyReference.cache
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.csproj.CoreCompileInputs.cache
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.AssemblyInfoInputs.cache
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.AssemblyInfo.cs
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.csproj.CopyComplete
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.dll
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.pdb
+/Users/hc/Desktop/Evostone-master/DeckSearch/obj/Release/netcoreapp2.1/DeckSearch.genruntimeconfig.cache

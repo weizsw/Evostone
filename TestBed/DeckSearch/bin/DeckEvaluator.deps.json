@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DeckEvaluator/1.0.0": {
+        "dependencies": {
+          "SabberStoneUtil": "1.0.0",
+          "SabberStoneCore": "2.1.0.0"
+        },
+        "runtime": {
+          "DeckEvaluator.dll": {}
+        }
+      },
+      "Nett/0.12.0": {
+        "runtime": {
+          "lib/netstandard2.0/Nett.dll": {
+            "assemblyVersion": "0.12.0.0",
+            "fileVersion": "0.12.0.0"
+          }
+        }
+      },
+      "SabberStoneUtil/1.0.0": {
+        "dependencies": {
+          "Nett": "0.12.0"
+        },
+        "runtime": {
+          "SabberStoneUtil.dll": {}
+        }
+      },
+      "SabberStoneCore/2.1.0.0": {
+        "runtime": {
+          "SabberStoneCore.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeckEvaluator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nett/0.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Q50vgWIDnTjBxpFQl+lqEVLX6A5MYQhNkwwDY9P+hAqARULrN+XBc+/VwR3Ejyesd4pC0LfnK1dht4NMQ4MkBw==",
+      "path": "nett/0.12.0",
+      "hashPath": "nett.0.12.0.nupkg.sha512"
+    },
+    "SabberStoneUtil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SabberStoneCore/2.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

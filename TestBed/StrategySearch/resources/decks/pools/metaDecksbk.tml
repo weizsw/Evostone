@@ -1,0 +1,7 @@
+PoolName = "Meta Decks"
+
+# ETC Rogue: https://www.hearthstonetopdecks.com/decks/tempo-rogue-rise-of-shadows-1-legend-etc/
+[[Decks]]
+DeckName = "Tempo Rogue"
+ClassName = "Rogue"
+CardList = ['Goldshire Footman', 'Tauren Warrior', 'Fan of Knives', 'Scarlet Crusader', 'Ironfur Grizzly', 'Frostwolf Grunt', 'Lord of the Arena', 'Blade Flurry', 'Tauren Warrior', 'Coldlight Seer', 'Silver Hand Knight', 'Bloodsail Corsair', 'Acidic Swamp Ooze', 'Arcane Golem', 'Silverback Patriarch', 'Fan of Knives', 'Oasis Snapjaw', 'Sunfury Protector', 'Bloodsail Corsair', 'Ysera', 'Onyxia', 'Amani Berserker', 'Ironfur Grizzly', 'Frostwolf Grunt', 'Lord of the Arena', 'Blade Flurry', 'Archmage', 'Cairne Bloodhoof', 'Arcane Golem', 'Bloodsail Raider']

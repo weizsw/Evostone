@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "Tempo Rogue"
+ClassName = "Warlock"
+CardList = ["Abomination", "Gadgetzan Auctioneer", "Subject 9", "Mortal Coil", "Priestess of Elune", "Frostwolf Grunt", "Voidwalker", "Argent Commander", "Ancient Watcher", "Murloc Tidecaller", "Secretkeeper", "Dr. Morrigan", "Giggling Inventor", "Abomination", "Sea Giant", "Illidan Stormrage", "Portal Overfiend", "Batterhead", "Damaged Stegotron", "Millhouse Manastorm", "Unpowered Mauler", "Dragon Egg", "Tauren Warrior", "Heroic Innkeeper", "Drakonid Crusher", "Loose Specimen", "Pit Lord", "Loose Specimen", "Dire Wolf Alpha", "Archmage"]

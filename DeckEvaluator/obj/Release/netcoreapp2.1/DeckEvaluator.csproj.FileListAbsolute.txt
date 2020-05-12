@@ -1,0 +1,34 @@
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.deps.json
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.runtimeconfig.json
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.runtimeconfig.dev.json
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneCore.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneUtil.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneUtil.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneCore.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.csprojAssemblyReference.cache
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.csproj.CoreCompileInputs.cache
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.AssemblyInfoInputs.cache
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.AssemblyInfo.cs
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.csproj.CopyComplete
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.dll
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.pdb
+C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.genruntimeconfig.cache
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.deps.json
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.runtimeconfig.json
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.runtimeconfig.dev.json
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.dll
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/DeckEvaluator.pdb
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneCore.dll
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneUtil.dll
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneUtil.pdb
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/bin/Release/netcoreapp2.1/SabberStoneCore.pdb
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.csprojAssemblyReference.cache
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.csproj.CoreCompileInputs.cache
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.AssemblyInfoInputs.cache
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.AssemblyInfo.cs
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.csproj.CopyComplete
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.dll
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.pdb
+/Users/hc/Desktop/Evostone-master/DeckEvaluator/obj/Release/netcoreapp2.1/DeckEvaluator.genruntimeconfig.cache

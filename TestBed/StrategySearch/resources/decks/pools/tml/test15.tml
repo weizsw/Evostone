@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Mountain Giant", "Doomsayer", "Onyxia", "Bloodsail Corsair", "Venture Co. Mercenary", "Earthen Ring Farseer", "Acidic Swamp Ooze", "Abomination", "Injured Blademaster", "Crazed Alchemist", "Youthful Brewmaster", "Pit Lord", "Nozdormu", "Ancient Brewmaster", "Ogre Magi", "Felguard", "Ancient Watcher", "Corruption", "Mind Control Tech", "Ancient Brewmaster", "Ogre Magi", "Felguard", "Ancient Watcher", "Corruption", "Mind Control Tech", "Sunfury Protector", "Pit Lord", "Blood Knight", "Acidic Swamp Ooze", "Hogger"]

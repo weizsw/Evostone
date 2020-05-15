@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Void Terror", "Argent Squire", "Dread Infernal", "Flame Imp", "Abomination", "Demolisher", "Pint-Sized Summoner", "The Black Knight", "Pit Lord", "Sacrificial Pact", "Malygos", "Deathwing", "Sunfury Protector", "Windfury Harpy", "Onyxia", "Cairne Bloodhoof", "The Black Knight", "Cult Master", "Injured Blademaster", "Spellbreaker", "Bloodmage Thalnos", "The Beast", "Loot Hoarder", "The Beast", "Twilight Drake", "Dread Infernal", "Flame Imp", "Shadow Bolt", "Twisting Nether", "Knife Juggler"]

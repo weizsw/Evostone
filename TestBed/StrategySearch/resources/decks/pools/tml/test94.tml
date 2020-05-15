@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Injured Blademaster", "King Mukla", "Silver Hand Knight", "Onyxia", "Hungry Crab", "Dread Infernal", "Blood Knight", "Shadow Bolt", "Drain Life", "Murloc Tidehunter", "Doomsayer", "Mountain Giant", "Pit Lord", "Nightblade", "Crazed Alchemist", "Worgen Infiltrator", "Dragonling Mechanic", "Gadgetzan Auctioneer", "Gnomish Inventor", "Elven Archer", "Lord Jaraxxus", "Shadowflame", "Dire Wolf Alpha", "Imp Master", "Stormwind Knight", "Injured Blademaster", "Illidan Stormrage", "Lord Jaraxxus", "Bloodsail Corsair", "Deathwing"]

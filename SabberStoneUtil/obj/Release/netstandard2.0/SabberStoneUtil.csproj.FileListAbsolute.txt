@@ -1,15 +1,3 @@
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.csprojAssemblyReference.cache
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.csproj.CoreCompileInputs.cache
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.AssemblyInfoInputs.cache
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.AssemblyInfo.cs
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneUtil.deps.json
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneUtil.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneUtil.pdb
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneCore.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneCore.pdb
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.csproj.CopyComplete
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.pdb
 /Users/hc/Desktop/Evostone-master/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneUtil.deps.json
 /Users/hc/Desktop/Evostone-master/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneUtil.dll
 /Users/hc/Desktop/Evostone-master/SabberStoneUtil/bin/Release/netstandard2.0/SabberStoneUtil.pdb
@@ -22,3 +10,15 @@ C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/SabberStoneUtil/obj/
 /Users/hc/Desktop/Evostone-master/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.csproj.CopyComplete
 /Users/hc/Desktop/Evostone-master/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.dll
 /Users/hc/Desktop/Evostone-master/SabberStoneUtil/obj/Release/netstandard2.0/SabberStoneUtil.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\bin\Release\netstandard2.0\SabberStoneUtil.deps.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\bin\Release\netstandard2.0\SabberStoneUtil.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\bin\Release\netstandard2.0\SabberStoneUtil.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\bin\Release\netstandard2.0\SabberStoneCore.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\bin\Release\netstandard2.0\SabberStoneCore.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.csprojAssemblyReference.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.csproj.CoreCompileInputs.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.AssemblyInfoInputs.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.AssemblyInfo.cs
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.csproj.CopyComplete
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\SabberStoneUtil\obj\Release\netstandard2.0\SabberStoneUtil.pdb

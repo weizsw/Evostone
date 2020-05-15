@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Dread Infernal", "Arcane Golem", "Dread Infernal", "Arcane Golem", "Youthful Brewmaster", "Frostwolf Warlord", "Injured Blademaster", "Darkscale Healer", "Mind Control Tech", "Booty Bay Bodyguard", "Mad Bomber", "Violet Teacher", "Venture Co. Mercenary", "Pit Lord", "Soulfire", "Shattered Sun Cleric", "Pit Lord", "Blood Imp", "Secretkeeper", "Bloodmage Thalnos", "The Beast", "Ancient Mage", "Abomination", "Silver Hand Knight", "Razorfen Hunter", "Hellfire", "Ironfur Grizzly", "Stormwind Champion", "Ancient Mage", "Loot Hoarder"]

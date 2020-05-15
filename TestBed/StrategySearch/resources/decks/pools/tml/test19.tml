@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Bloodsail Corsair", "Sen'jin Shieldmasta", "Earth Elemental", "Kobold Geomancer", "Dust Devil", "Stormwind Knight", "Booty Bay Bodyguard", "Kobold Geomancer", "Dust Devil", "Dark Iron Dwarf", "Earth Shock", "Angry Chicken", "Mana Wraith", "Earth Elemental", "Hex", "Dread Corsair", "Raging Worgen", "Al'Akir the Windlord", "Captain Greenskin", "Questing Adventurer", "Bluegill Warrior", "Bloodmage Thalnos", "The Beast", "Gnomish Inventor", "Injured Blademaster", "Lightning Storm", "Nozdormu", "Stampeding Kodo", "Injured Blademaster", "Venture Co. Mercenary"]

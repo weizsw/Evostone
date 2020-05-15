@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Reckless Rocketeer", "Pit Lord", "Priestess of Elune", "Booty Bay Bodyguard", "Angry Chicken", "Murloc Tidehunter", "Alarm-o-Bot", "Sense Demons", "Knife Juggler", "Dread Infernal", "Ancient Brewmaster", "Scarlet Crusader", "Bloodmage Thalnos", "Sea Giant", "Soulfire", "Demonfire", "Pit Lord", "Priestess of Elune", "Booty Bay Bodyguard", "Onyxia", "Venture Co. Mercenary", "Dread Infernal", "Ancient Brewmaster", "Scarlet Crusader", "Bloodmage Thalnos", "Lord Jaraxxus", "Abusive Sergeant", "Lord Jaraxxus", "Bloodsail Corsair", "Silverback Patriarch"]

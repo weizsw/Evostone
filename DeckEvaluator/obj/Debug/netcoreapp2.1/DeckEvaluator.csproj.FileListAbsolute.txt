@@ -2,3 +2,16 @@ C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\De
 C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.csproj.CoreCompileInputs.cache
 C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.AssemblyInfoInputs.cache
 C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.AssemblyInfo.cs
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\DeckEvaluator.deps.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\DeckEvaluator.runtimeconfig.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\DeckEvaluator.runtimeconfig.dev.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\DeckEvaluator.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\DeckEvaluator.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\SabberStoneCore.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\SabberStoneUtil.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\SabberStoneUtil.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\bin\Debug\netcoreapp2.1\SabberStoneCore.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.csproj.CopyComplete
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\DeckEvaluator\obj\Debug\netcoreapp2.1\DeckEvaluator.genruntimeconfig.cache

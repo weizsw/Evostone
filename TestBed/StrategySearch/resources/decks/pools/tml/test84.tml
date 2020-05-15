@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Wild Pyromancer", "Sense Demons", "Pit Lord", "Stampeding Kodo", "Reckless Rocketeer", "Injured Blademaster", "Crazed Alchemist", "Novice Engineer", "Sunfury Protector", "Pit Lord", "Shadow Bolt", "Drain Life", "Angry Chicken", "Demonfire", "Raid Leader", "Secretkeeper", "Stranglethorn Tiger", "Faceless Manipulator", "Silver Hand Knight", "Injured Blademaster", "Sense Demons", "Sunfury Protector", "Gruul", "Dark Iron Dwarf", "Ravenholdt Assassin", "Mortal Coil", "Violet Teacher", "Soulfire", "Voidwalker", "Gnomish Inventor"]

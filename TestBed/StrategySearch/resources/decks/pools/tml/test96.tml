@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Mind Control Tech", "Summoning Portal", "Voidwalker", "Gnomish Inventor", "Mountain Giant", "Knife Juggler", "Lord Jaraxxus", "Injured Blademaster", "Baron Geddon", "Shadow Bolt", "Drain Life", "Pit Lord", "Nightblade", "Southsea Captain", "Southsea Captain", "Gadgetzan Auctioneer", "Dread Infernal", "Flame Imp", "Deathwing", "Abomination", "Hogger", "Dalaran Mage", "Dread Infernal", "Ancient Brewmaster", "Nozdormu", "Injured Blademaster", "The Beast", "Twisting Nether", "Elven Archer", "Lord Jaraxxus"]

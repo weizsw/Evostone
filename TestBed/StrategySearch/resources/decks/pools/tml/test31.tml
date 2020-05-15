@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Jungle Panther", "Drain Life", "Dread Infernal", "Acidic Swamp Ooze", "Dread Infernal", "Arcane Golem", "Silver Hand Knight", "Big Game Hunter", "Hellfire", "Siphon Soul", "Onyxia", "Pit Lord", "Gnomish Inventor", "Injured Blademaster", "Silver Hand Knight", "Injured Blademaster", "Summoning Portal", "Siphon Soul", "Fen Creeper", "Abomination", "Soulfire", "Stranglethorn Tiger", "Felguard", "Bane of Doom", "Voodoo Doctor", "Pit Lord", "Baron Geddon", "Elven Archer", "Lord Jaraxxus", "Gruul"]

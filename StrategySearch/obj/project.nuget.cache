@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "AefgZo2F0JfX1x887hqj47pxmK/VAQ0+G78EkxqyrjSmtzPJNK3DaeLmY17psyUcSDXLfHRj/ltQvKPYmWqhLQ==",
+  "dgSpecHash": "TKmNgk0a+k7tsvBMm0DTXAOyl81dVet4A0P4EqfNPue+aYC49dWyggWCy8Gj5f0nEMa9RuPzTM5bP0m5eh8YUg==",
   "success": true,
-  "projectFilePath": "/Users/hc/Desktop/Evostone-master/StrategySearch/StrategySearch.csproj",
+  "projectFilePath": "C:\\Users\\weizsw\\iCloudDrive\\Documents\\Ai for Games\\EvoStone\\StrategySearch\\StrategySearch.csproj",
   "expectedPackageFiles": [
-    "/Users/hc/.nuget/packages/mathnet.numerics/4.8.1/mathnet.numerics.4.8.1.nupkg.sha512",
-    "/Users/hc/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "/Users/hc/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "/Users/hc/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "/Users/hc/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "/Users/hc/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "/Users/hc/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "/Users/hc/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/hc/.nuget/packages/nett/0.12.0/nett.0.12.0.nupkg.sha512"
+    "C:\\Users\\weizsw\\.nuget\\packages\\mathnet.numerics\\4.8.1\\mathnet.numerics.4.8.1.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\weizsw\\.nuget\\packages\\nett\\0.12.0\\nett.0.12.0.nupkg.sha512"
   ],
   "logs": []
 }

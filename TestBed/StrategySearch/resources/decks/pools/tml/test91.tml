@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Abusive Sergeant", "Lord of the Arena", "Mogu'shan Warden", "Silver Hand Knight", "Injured Blademaster", "Deathwing", "Silvermoon Guardian", "Lava Burst", "Hex", "Ancient Watcher", "Faceless Manipulator", "Earth Elemental", "Shieldbearer", "Dust Devil", "Razorfen Hunter", "Ancestral Spirit", "Southsea Deckhand", "The Black Knight", "Bloodlust", "Loot Hoarder", "The Beast", "Booty Bay Bodyguard", "Earth Elemental", "Sunwalker", "Hex", "Lightning Storm", "Big Game Hunter", "Fire Elemental", "Injured Blademaster", "Blood Knight"]

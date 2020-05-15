@@ -205,28 +205,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/hc/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\weizsw\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hc/Desktop/Evostone-master/SabberStoneUtil/SabberStoneUtil.csproj",
+      "projectUniqueName": "C:\\Users\\weizsw\\iCloudDrive\\Documents\\Ai for Games\\EvoStone\\SabberStoneUtil\\SabberStoneUtil.csproj",
       "projectName": "SabberStoneUtil",
-      "projectPath": "/Users/hc/Desktop/Evostone-master/SabberStoneUtil/SabberStoneUtil.csproj",
-      "packagesPath": "/Users/hc/.nuget/packages/",
-      "outputPath": "/Users/hc/Desktop/Evostone-master/SabberStoneUtil/obj/",
+      "projectPath": "C:\\Users\\weizsw\\iCloudDrive\\Documents\\Ai for Games\\EvoStone\\SabberStoneUtil\\SabberStoneUtil.csproj",
+      "packagesPath": "C:\\Users\\weizsw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\weizsw\\iCloudDrive\\Documents\\Ai for Games\\EvoStone\\SabberStoneUtil\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/hc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\weizsw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -264,7 +266,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

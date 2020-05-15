@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Dread Infernal", "Mad Bomber", "Murloc Tidehunter", "Secretkeeper", "Nat Pagle", "Arcane Golem", "Young Priestess", "Leeroy Jenkins", "Pit Lord", "Injured Blademaster", "Coldlight Seer", "Acidic Swamp Ooze", "Soulfire", "Lorewalker Cho", "Blood Imp", "Youthful Brewmaster", "Injured Blademaster", "Blood Knight", "Pit Lord", "Stampeding Kodo", "Archmage", "Voidwalker", "Questing Adventurer", "King Mukla", "Shadow Bolt", "Soulfire", "Lorewalker Cho", "Hellfire", "Mogu'shan Warden", "Raid Leader"]

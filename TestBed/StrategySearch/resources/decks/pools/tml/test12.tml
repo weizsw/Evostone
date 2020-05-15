@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Leper Gnome", "Worgen Infiltrator", "Flame Imp", "Lord Jaraxxus", "Injured Blademaster", "Priestess of Elune", "Mortal Coil", "Drain Life", "Siphon Soul", "Dread Infernal", "Arcane Golem", "Lightwarden", "Defender of Argus", "Pit Lord", "The Beast", "Venture Co. Mercenary", "Pit Lord", "Blood Imp", "Stormwind Knight", "Void Terror", "Frost Elemental", "Dread Infernal", "Felguard", "Flesheating Ghoul", "Elven Archer", "Lord Jaraxxus", "Injured Blademaster", "Felguard", "Goldshire Footman", "Ancient Brewmaster"]

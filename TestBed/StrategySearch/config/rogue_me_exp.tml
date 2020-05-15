@@ -16,14 +16,4 @@ LayerSizes = [15, 5, 4, 1]
 
 [Player]
 DeckPool = "Meta Decks"
-DeckName = "Tempo Rogue"
-
-[[Nerfs]]
-CardName = "EVIL Miscreant"
-NewManaCost = 3
-NewAttack = 1
-NewHealth = 5
-
-[[Nerfs]]
-CardName = "Raiding Party"
-NewManaCost = 3
+DeckName = "test"

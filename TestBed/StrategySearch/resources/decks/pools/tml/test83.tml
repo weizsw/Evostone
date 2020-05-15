@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Sense Demons", "Bloodmage Thalnos", "Dread Infernal", "Acidic Swamp Ooze", "Ancient Watcher", "Dark Iron Dwarf", "Dread Infernal", "Arcane Golem", "Drain Life", "Raid Leader", "Bloodmage Thalnos", "The Beast", "Pit Lord", "Bloodsail Raider", "Millhouse Manastorm", "Pit Lord", "Nightblade", "Lorewalker Cho", "Lord Jaraxxus", "Bloodsail Corsair", "Lorewalker Cho", "Lord Jaraxxus", "Bloodsail Corsair", "Injured Blademaster", "Felguard", "Drain Life", "Wolfrider", "Mana Addict", "Lord of the Arena", "Mogu'shan Warden"]

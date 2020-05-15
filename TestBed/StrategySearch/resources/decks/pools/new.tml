@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Fire Elemental", "Leper Gnome", "The Beast", "Onyxia", "Lord of the Arena", "Mogu'shan Warden", "Onyxia", "Frost Shock", "Imp Master", "Gadgetzan Auctioneer", "Mountain Giant", "Fire Elemental", "Leper Gnome", "The Beast", "Hex", "Shieldbearer", "Sunwalker", "Faceless Manipulator", "Leeroy Jenkins", "Injured Blademaster", "Illidan Stormrage", "Knife Juggler", "Lightning Bolt", "Dread Corsair", "Injured Blademaster", "Illidan Stormrage", "Knife Juggler", "Lightning Bolt", "Gnomish Inventor", "Sea Giant"]

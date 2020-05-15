@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Pit Lord", "Priestess of Elune", "Gurubashi Berserker", "Shadowflame", "Frostwolf Grunt", "Lord Jaraxxus", "Bloodsail Corsair", "Sea Giant", "Knife Juggler", "Frostwolf Grunt", "Lord Jaraxxus", "Bloodsail Corsair", "Sea Giant", "Raging Worgen", "Illidan Stormrage", "Priestess of Elune", "Pit Lord", "Stampeding Kodo", "Acidic Swamp Ooze", "Lord of the Arena", "Felguard", "Coldlight Seer", "Injured Blademaster", "Venture Co. Mercenary", "Stonetusk Boar", "Hellfire", "Dread Infernal", "Void Terror", "Dread Infernal", "Flame Imp"]

@@ -1,20 +1,3 @@
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/StrategySearch.deps.json
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/StrategySearch.runtimeconfig.json
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/StrategySearch.runtimeconfig.dev.json
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/StrategySearch.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/StrategySearch.pdb
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/SabberStoneCore.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/SabberStoneUtil.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/SabberStoneUtil.pdb
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/bin/Release/netcoreapp2.1/SabberStoneCore.pdb
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.csprojAssemblyReference.cache
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.csproj.CoreCompileInputs.cache
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.AssemblyInfoInputs.cache
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.AssemblyInfo.cs
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.csproj.CopyComplete
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.dll
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.pdb
-C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.genruntimeconfig.cache
 /Users/hc/Desktop/Evostone-master/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.csprojAssemblyReference.cache
 /Users/hc/Desktop/Evostone-master/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.csproj.CoreCompileInputs.cache
 /Users/hc/Desktop/Evostone-master/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.AssemblyInfoInputs.cache
@@ -32,3 +15,20 @@ C:/Users/weizsw/iCloudDrive/Documents/Ai for Games/EvoStone/StrategySearch/obj/R
 /Users/hc/Desktop/Evostone-master/StrategySearch/bin/Release/netcoreapp2.1/SabberStoneCore.pdb
 /Users/hc/Desktop/Evostone-master/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.csproj.CopyComplete
 /Users/hc/Desktop/Evostone-master/StrategySearch/obj/Release/netcoreapp2.1/StrategySearch.genruntimeconfig.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.csproj.CoreCompileInputs.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.AssemblyInfoInputs.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.AssemblyInfo.cs
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\StrategySearch.deps.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\StrategySearch.runtimeconfig.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\StrategySearch.runtimeconfig.dev.json
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\StrategySearch.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\StrategySearch.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\SabberStoneCore.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\SabberStoneUtil.dll
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\SabberStoneUtil.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\bin\Release\netcoreapp2.1\SabberStoneCore.pdb
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.csproj.CopyComplete
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.genruntimeconfig.cache
+C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\StrategySearch\obj\Release\netcoreapp2.1\StrategySearch.csprojAssemblyReference.cache

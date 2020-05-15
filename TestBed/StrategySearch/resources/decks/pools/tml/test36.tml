@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Dread Infernal", "Flame Imp", "Onyxia", "Raid Leader", "Injured Blademaster", "Tinkmaster Overspark", "Soulfire", "Lord of the Arena", "Felguard", "Shadow Bolt", "Mortal Coil", "Injured Blademaster", "The Beast", "Crazed Alchemist", "Pit Lord", "Flesheating Ghoul", "Dread Infernal", "Acidic Swamp Ooze", "Hogger", "Flame Imp", "Lord Jaraxxus", "Young Priestess", "Illidan Stormrage", "Bloodsail Raider", "Gnomish Inventor", "Pit Lord", "The Beast", "Lord of the Arena", "Felguard", "Nozdormu"]

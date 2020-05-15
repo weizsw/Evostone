@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Tinkmaster Overspark", "Pit Lord", "Soulfire", "Demonfire", "Thrallmar Farseer", "Onyxia", "Hungry Crab", "Alexstrasza", "Ancient Brewmaster", "Pit Lord", "Frostwolf Warlord", "Windfury Harpy", "Call of the Void", "Millhouse Manastorm", "Shadow Bolt", "Drain Life", "Shieldbearer", "Alexstrasza", "Bloodsail Corsair", "Ironfur Grizzly", "Injured Blademaster", "Darkscale Healer", "Dread Infernal", "Arcane Golem", "Injured Blademaster", "Priestess of Elune", "Sunwalker", "Kobold Geomancer", "Soulfire", "Demonfire"]

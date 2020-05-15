@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Shadow Bolt", "Drain Life", "Pit Lord", "Bloodsail Raider", "Sacrificial Pact", "Secretkeeper", "Corruption", "Raid Leader", "Hellfire", "Dire Wolf Alpha", "Injured Blademaster", "Tinkmaster Overspark", "Sacrificial Pact", "Secretkeeper", "Mind Control Tech", "Dread Infernal", "Arcane Golem", "Stampeding Kodo", "Coldlight Seer", "Sea Giant", "Dread Infernal", "Mad Bomber", "Worgen Infiltrator", "Spellbreaker", "Arcane Golem", "Pit Lord", "Mad Bomber", "Fen Creeper", "Mortal Coil", "Soulfire"]

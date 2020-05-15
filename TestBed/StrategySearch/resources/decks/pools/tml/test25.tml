@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Stampeding Kodo", "Nozdormu", "Void Terror", "Booty Bay Bodyguard", "Injured Blademaster", "Stampeding Kodo", "Hellfire", "Shadow Bolt", "Drain Life", "Earthen Ring Farseer", "Injured Blademaster", "Ancient Brewmaster", "Soulfire", "Demonfire", "Ysera", "Worgen Infiltrator", "Silvermoon Guardian", "Tinkmaster Overspark", "Pit Lord", "Shadowflame", "Silvermoon Guardian", "Tinkmaster Overspark", "Pit Lord", "Shadowflame", "Wolfrider", "Dread Infernal", "Void Terror", "Elven Archer", "Drain Life", "Soulfire"]

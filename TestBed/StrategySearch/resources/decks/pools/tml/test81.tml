@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Thrallmar Farseer", "Tinkmaster Overspark", "Twisting Nether", "Shadow Bolt", "Mortal Coil", "Silver Hand Knight", "Injured Blademaster", "Thrallmar Farseer", "Lord of the Arena", "Felguard", "Tinkmaster Overspark", "Pit Lord", "Lord Jaraxxus", "Bloodsail Corsair", "Emperor Cobra", "Acidic Swamp Ooze", "Gruul", "Sunfury Protector", "Pit Lord", "Priestess of Elune", "Summoning Portal", "Elven Archer", "Lord Jaraxxus", "Shadowflame", "Injured Blademaster", "Darkscale Healer", "Murloc Tidecaller", "Loot Hoarder", "The Beast", "Drain Life"]

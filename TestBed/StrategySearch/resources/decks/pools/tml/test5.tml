@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Cult Master", "Wolfrider", "Voodoo Doctor", "Pit Lord", "Hogger", "Shadow Bolt", "Soulfire", "Knife Juggler", "The Black Knight", "Pit Lord", "Dalaran Mage", "Angry Chicken", "Blood Knight", "Young Dragonhawk", "Earthen Ring Farseer", "Stormpike Commando", "Southsea Captain", "Gruul", "Dread Corsair", "Dread Infernal", "Felguard", "Ironforge Rifleman", "Abusive Sergeant", "Dread Corsair", "Dread Infernal", "Felguard", "Ironforge Rifleman", "The Beast", "Young Priestess", "Stormwind Knight"]

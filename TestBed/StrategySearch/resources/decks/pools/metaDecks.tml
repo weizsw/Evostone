@@ -1,5 +1,5 @@
 PoolName = "Meta Decks"
 [[Decks]]
-DeckName = "Tempo Rogue"
+DeckName = "test"
 ClassName = "Warlock"
-CardList = ["Abomination", "Gadgetzan Auctioneer", "Subject 9", "Mortal Coil", "Priestess of Elune", "Frostwolf Grunt", "Voidwalker", "Argent Commander", "Ancient Watcher", "Murloc Tidecaller", "Secretkeeper", "Dr. Morrigan", "Giggling Inventor", "Abomination", "Sea Giant", "Illidan Stormrage", "Portal Overfiend", "Batterhead", "Damaged Stegotron", "Millhouse Manastorm", "Unpowered Mauler", "Dragon Egg", "Tauren Warrior", "Heroic Innkeeper", "Drakonid Crusher", "Loose Specimen", "Pit Lord", "Loose Specimen", "Dire Wolf Alpha", "Archmage"]
+CardList = ["Soulfire", "Demonfire", "Lord Jaraxxus", "Bloodsail Corsair", "Ogre Magi", "Twisting Nether", "Demolisher", "Corruption", "Alexstrasza", "Mana Addict", "Injured Blademaster", "Bloodsail Corsair", "Elven Archer", "Lord Jaraxxus", "Illidan Stormrage", "Frost Elemental", "Windfury Harpy", "Faerie Dragon", "Voodoo Doctor", "Lord of the Arena", "Felguard", "Harrison Jones", "Gnomish Inventor", "Injured Blademaster", "Cult Master", "Dread Infernal", "Arcane Golem", "Shattered Sun Cleric", "Pit Lord", "Questing Adventurer"]

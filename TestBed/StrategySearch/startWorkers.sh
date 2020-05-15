@@ -1,8 +1,8 @@
 #!/bin/sh
 #
 # Usage: gputest.sh
-# Change job name and email address as needed 
-#        
+# Change job name and email address as needed
+#
 
 # -- our name ---
 #$ -N DeckEvaluator
@@ -17,9 +17,9 @@
 #$ -q medium
 #$ -t 1-999
 #$ -l mem_free=14.0G
-/bin/echo Running on host: `hostname`.
-/bin/echo In directory: `pwd`
-/bin/echo Starting on: `date`
+# /bin/echo Running on host: `hostname`.
+# /bin/echo In directory: `pwd`
+# /bin/echo Starting on: `date`
 
 # Load dotnet module
 module load dotnet/2.2.300

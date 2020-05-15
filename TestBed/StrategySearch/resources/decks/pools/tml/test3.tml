@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Onyxia", "Dragonling Mechanic", "Pit Lord", "Priestess of Elune", "Violet Teacher", "Southsea Captain", "Knife Juggler", "Abomination", "Stormwind Knight", "Injured Blademaster", "Spellbreaker", "Injured Blademaster", "The Beast", "Sen'jin Shieldmasta", "Wolfrider", "Knife Juggler", "Razorfen Hunter", "Pit Lord", "Loot Hoarder", "The Beast", "Sacrificial Pact", "Flame Imp", "Lord Jaraxxus", "Lord Jaraxxus", "Bloodsail Corsair", "Big Game Hunter", "Dalaran Mage", "Youthful Brewmaster", "Imp Master", "Razorfen Hunter"]

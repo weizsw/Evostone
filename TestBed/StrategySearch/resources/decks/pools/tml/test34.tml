@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Mountain Giant", "Murloc Tidehunter", "Dread Infernal", "Acidic Swamp Ooze", "Tinkmaster Overspark", "Pit Lord", "Blood Knight", "Tauren Warrior", "Flesheating Ghoul", "Mana Addict", "Stampeding Kodo", "Pit Lord", "Ancient Mage", "Dread Infernal", "Acidic Swamp Ooze", "Elven Archer", "Demolisher", "Injured Blademaster", "Felguard", "Drain Life", "Soulfire", "Shadow Bolt", "Soulfire", "Onyxia", "Hungry Crab", "Venture Co. Mercenary", "Big Game Hunter", "Frost Elemental", "Malygos", "Shadow Bolt"]

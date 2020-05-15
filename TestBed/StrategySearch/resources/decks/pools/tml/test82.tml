@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Twilight Drake", "Bloodmage Thalnos", "The Beast", "Rockbiter Weapon", "Earth Elemental", "Mogu'shan Warden", "Lightning Storm", "Ironfur Grizzly", "Twilight Drake", "Frostwolf Grunt", "Hex", "Abomination", "Lava Burst", "Hex", "Abomination", "Gnomish Inventor", "Kobold Geomancer", "Hungry Crab", "Earth Elemental", "Shieldbearer", "Injured Blademaster", "Crazed Alchemist", "Stormforged Axe", "Flametongue Totem", "Leper Gnome", "Bloodmage Thalnos", "The Beast", "Lord of the Arena", "Lord of the Arena", "Mogu'shan Warden"]

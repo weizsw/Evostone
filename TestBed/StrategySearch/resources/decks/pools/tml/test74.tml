@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Injured Blademaster", "Leeroy Jenkins", "Doomsayer", "Amani Berserker", "Dread Infernal", "Ancient Brewmaster", "Alexstrasza", "Violet Teacher", "Archmage", "Ogre Magi", "Stormwind Knight", "Twilight Drake", "Windfury Harpy", "Voodoo Doctor", "Pit Lord", "Thrallmar Farseer", "Violet Teacher", "Archmage", "Ogre Magi", "Stormwind Knight", "Angry Chicken", "Injured Blademaster", "Razorfen Hunter", "Baron Geddon", "Imp Master", "Shadow Bolt", "Soulfire", "Bloodmage Thalnos", "Argent Squire", "Mind Control Tech"]

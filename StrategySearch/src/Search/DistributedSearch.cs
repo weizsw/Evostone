@@ -177,33 +177,40 @@ namespace StrategySearch.Search
          // Standard IO Logging
          var os = cur.OverallData;
          Console.WriteLine("------------------");
-         Console.WriteLine(string.Format("Eval ({0}):", cur.ID));
+            Console.WriteLine(string.Format("Eval ({0}):", cur.ID));
 
-            ///////////////////////////
-            FileStream fileStream = null;
-            string filePath = "/Users/hc/Desktop/wincount.txt";
-            //将待写的入数据从字符串转换为字节数组
-            Encoding encoder = Encoding.UTF8;
-            byte[] bytes = encoder.GetBytes(os.WinCount.ToString() + "\n");
-            try
-            {
-                fileStream = File.OpenWrite(filePath);
-                //设定书写的开始位置为文件的末尾
-                fileStream.Position = fileStream.Length;
-                //将待写入内容追加到文件末尾
-                fileStream.Write(bytes, 0, bytes.Length);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("文件打开失败{0}", ex.ToString());
-            }
-            finally
-            {
-                fileStream.Close();
-            }
-           //////////////////////////
+            /////////////////////////
+            //FileStream fileStream = null;
+            //string filePath = @"C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\TestBed\StrategySearch\weight.txt";
+            ////将待写的入数据从字符串转换为字节数组
+            //Encoding encoder = Encoding.UTF8;
+            //byte[] bytes = encoder.GetBytes(os.WinCount.ToString());
+            //try
+            //{
+            //    fileStream = File.OpenWrite(filePath);
+            //    //设定书写的开始位置为文件的末尾
+            //    fileStream.Position = fileStream.Length;
+            //    //将待写入内容追加到文件末尾
+            //    fileStream.Write(bytes, 0, bytes.Length);
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine("文件打开失败{0}", ex.ToString());
+            //}
+            //finally
+            //{
+            //    fileStream.Close();
+            //}
 
-                Console.WriteLine("Win Count: "+os.WinCount);
+            //////////////////////
+
+            using (StreamWriter sw = File.AppendText(@"C:\Users\weizsw\iCloudDrive\Documents\Ai for Games\EvoStone\TestBed\StrategySearch\win.txt"))
+            {
+                
+                sw.Write(os.WinCount.ToString() + ",");
+            }
+        
+            Console.WriteLine("Win Count: "+os.WinCount);
          Console.WriteLine("Average Health Difference: "
                            +os.AverageHealthDifference);
          Console.WriteLine("Damage Done: "+os.DamageDone);

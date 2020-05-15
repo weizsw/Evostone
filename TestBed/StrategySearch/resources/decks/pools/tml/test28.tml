@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Sunwalker", "Dark Iron Dwarf", "Dread Infernal", "Blood Knight", "Onyxia", "Hungry Crab", "Pit Lord", "Stampeding Kodo", "Dread Infernal", "Arcane Golem", "Call of the Void", "Injured Blademaster", "Spellbreaker", "Bane of Doom", "Shieldbearer", "Sacrificial Pact", "Drain Life", "Soulfire", "Windfury Harpy", "Ogre Magi", "Venture Co. Mercenary", "Injured Blademaster", "Priestess of Elune", "Coldlight Seer", "Pit Lord", "Stonetusk Boar", "Bloodsail Corsair", "Summoning Portal", "Captain Greenskin", "Hellfire"]

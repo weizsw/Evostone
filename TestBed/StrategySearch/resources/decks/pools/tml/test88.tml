@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Venture Co. Mercenary", "Pit Lord", "Mortal Coil", "Soulfire", "Venture Co. Mercenary", "Sea Giant", "Imp Master", "Archmage", "Nat Pagle", "Onyxia", "Defender of Argus", "Injured Blademaster", "Priestess of Elune", "Injured Blademaster", "Razorfen Hunter", "Leeroy Jenkins", "Pit Lord", "Stranglethorn Tiger", "Sea Giant", "Dread Infernal", "Flame Imp", "Defender of Argus", "Harrison Jones", "Malygos", "Soulfire", "Demonfire", "Dread Infernal", "Blood Knight", "Raging Worgen", "Knife Juggler"]

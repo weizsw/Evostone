@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Blood Knight", "Lord of the Arena", "Felguard", "Spiteful Smith", "Sacrificial Pact", "Flesheating Ghoul", "Dragonling Mechanic", "Pit Lord", "Dread Infernal", "Void Terror", "Injured Blademaster", "Venture Co. Mercenary", "Venture Co. Mercenary", "Ogre Magi", "Sunfury Protector", "Pit Lord", "Twisting Nether", "Mad Bomber", "Ironforge Rifleman", "Injured Blademaster", "Demonfire", "Stonetusk Boar", "Bloodsail Raider", "Bane of Doom", "Blood Imp", "Leper Gnome", "Pint-Sized Summoner", "Questing Adventurer", "Soulfire", "Youthful Brewmaster"]

@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Defender of Argus", "Hex", "Lord of the Arena", "Hex", "Lightning Bolt", "Hungry Crab", "Ancestral Spirit", "Ravenholdt Assassin", "Injured Blademaster", "Crazed Alchemist", "Flametongue Totem", "Onyxia", "Bloodsail Corsair", "Earth Elemental", "Hungry Crab", "Doomhammer", "Forked Lightning", "Archmage", "Injured Blademaster", "Gruul", "Windfury Harpy", "Acidic Swamp Ooze", "Lightning Bolt", "Lava Burst", "Sea Giant", "Fire Elemental", "Ancient Brewmaster", "Stonetusk Boar", "Twilight Drake", "Mogu'shan Warden"]

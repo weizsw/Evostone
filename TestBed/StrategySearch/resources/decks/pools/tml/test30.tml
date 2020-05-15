@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["The Beast", "Mortal Coil", "Soulfire", "Dread Infernal", "Ancient Brewmaster", "Dread Infernal", "Arcane Golem", "Lord of the Arena", "Felguard", "Venture Co. Mercenary", "Archmage", "Pit Lord", "Shadow Bolt", "Mortal Coil", "Mountain Giant", "Crazed Alchemist", "Leeroy Jenkins", "Bluegill Warrior", "Injured Blademaster", "Leeroy Jenkins", "Ironfur Grizzly", "Injured Blademaster", "Priestess of Elune", "Priestess of Elune", "Shattered Sun Cleric", "Pit Lord", "Drain Life", "Twilight Drake", "Twisting Nether", "Dragonling Mechanic"]

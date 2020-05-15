@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Sunwalker", "Alarm-o-Bot", "Bloodsail Corsair", "Raging Worgen", "Southsea Captain", "Ancient Watcher", "Onyxia", "Flametongue Totem", "Questing Adventurer", "Ironforge Rifleman", "Sunfury Protector", "Earth Elemental", "Defender of Argus", "Priestess of Elune", "Spellbreaker", "Injured Blademaster", "Darkscale Healer", "Stampeding Kodo", "Lightwarden", "Hex", "Shieldbearer", "Lightning Bolt", "Lava Burst", "Tinkmaster Overspark", "Lightning Bolt", "Lava Burst", "Onyxia", "Flametongue Totem", "Injured Blademaster", "Illidan Stormrage"]

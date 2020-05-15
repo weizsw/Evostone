@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Far Sight", "Bloodlust", "Bloodmage Thalnos", "Stampeding Kodo", "Onyxia", "Hungry Crab", "Hex", "Tauren Warrior", "Totemic Might", "Fire Elemental", "King Mukla", "Forked Lightning", "Bloodmage Thalnos", "The Beast", "Unbound Elemental", "Injured Blademaster", "Coldlight Seer", "Mountain Giant", "Emperor Cobra", "Unbound Elemental", "Earth Elemental", "Fire Elemental", "Arcane Golem", "Injured Blademaster", "Tinkmaster Overspark", "Nat Pagle", "Abomination", "Earth Elemental", "Frost Shock", "Stormwind Champion"]

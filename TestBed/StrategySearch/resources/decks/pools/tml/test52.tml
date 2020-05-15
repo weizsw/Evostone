@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Southsea Deckhand", "Fire Elemental", "Ancient Brewmaster", "Frost Shock", "Raid Leader", "Faceless Manipulator", "Totemic Might", "Frost Elemental", "Questing Adventurer", "Silver Hand Knight", "Injured Blademaster", "Alexstrasza", "Flametongue Totem", "Alexstrasza", "Bloodsail Corsair", "Lightwarden", "Sunwalker", "Malygos", "Frostwolf Grunt", "Hex", "Ogre Magi", "Young Priestess", "Injured Blademaster", "Tinkmaster Overspark", "Frost Shock", "Ancestral Healing", "Feral Spirit", "Southsea Deckhand", "Fire Elemental", "Ancient Brewmaster"]

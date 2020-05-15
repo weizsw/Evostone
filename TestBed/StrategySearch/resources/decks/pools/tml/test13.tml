@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Millhouse Manastorm", "Silverback Patriarch", "Illidan Stormrage", "Dread Infernal", "Flame Imp", "Pint-Sized Summoner", "Lightwarden", "Void Terror", "Alexstrasza", "Bloodsail Corsair", "Blood Imp", "Injured Blademaster", "Coldlight Seer", "Nozdormu", "Mortal Coil", "Soulfire", "Frost Elemental", "Baron Geddon", "Leeroy Jenkins", "Pit Lord", "Drain Life", "Soulfire", "Shadow Bolt", "Mortal Coil", "Faerie Dragon", "Bane of Doom", "Blood Imp", "Injured Blademaster", "Coldlight Seer", "Nozdormu"]

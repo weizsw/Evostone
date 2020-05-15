@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Injured Blademaster", "The Beast", "Angry Chicken", "Angry Chicken", "Injured Blademaster", "Spellbreaker", "Crazed Alchemist", "Youthful Brewmaster", "Nozdormu", "Wolfrider", "Lava Burst", "Hex", "Leper Gnome", "Lorewalker Cho", "Mogu'shan Warden", "Abomination", "Razorfen Hunter", "Fire Elemental", "Arcane Golem", "Onyxia", "Bloodsail Corsair", "Flametongue Totem", "Acolyte of Pain", "Flametongue Totem", "Alarm-o-Bot", "Unbound Elemental", "Wild Pyromancer", "Captain Greenskin", "Spiteful Smith", "Grimscale Oracle"]

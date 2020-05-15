@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Shaman"
+CardList = ["Fire Elemental", "Ancient Brewmaster", "Ancestral Healing", "Hex", "Mogu'shan Warden", "Ancestral Spirit", "Gadgetzan Auctioneer", "Archmage", "Injured Blademaster", "Alexstrasza", "Injured Blademaster", "Priestess of Elune", "Fire Elemental", "Ancient Brewmaster", "Cult Master", "Lightning Bolt", "Lava Burst", "Coldlight Seer", "Illidan Stormrage", "The Beast", "Spiteful Smith", "Forked Lightning", "The Beast", "Spiteful Smith", "Knife Juggler", "Earth Shock", "Murloc Tidecaller", "Hex", "Lightning Storm", "Spellbreaker"]

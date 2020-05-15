@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Mad Bomber", "Archmage", "Abusive Sergeant", "Razorfen Hunter", "Pit Lord", "Mortal Coil", "Earthen Ring Farseer", "Injured Blademaster", "Shadow Bolt", "Soulfire", "Injured Blademaster", "Mad Bomber", "Dread Infernal", "Blood Knight", "Silver Hand Knight", "Cult Master", "Silver Hand Knight", "Dragonling Mechanic", "Pit Lord", "Spellbreaker", "Lord of the Arena", "Sen'jin Shieldmasta", "Ancient Watcher", "Dread Infernal", "Youthful Brewmaster", "Elven Archer", "Lord Jaraxxus", "Abomination", "Void Terror", "Gruul"]

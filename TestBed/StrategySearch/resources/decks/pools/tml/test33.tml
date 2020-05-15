@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Silverback Patriarch", "Windfury Harpy", "Dread Infernal", "Ancient Brewmaster", "The Beast", "Stormpike Commando", "Tinkmaster Overspark", "Pit Lord", "Lord of the Arena", "Windfury Harpy", "Dread Infernal", "Arcane Golem", "Stormwind Champion", "The Black Knight", "Earthen Ring Farseer", "Injured Blademaster", "Stranglethorn Tiger", "Soulfire", "Pit Lord", "Stampeding Kodo", "Injured Blademaster", "Coldlight Seer", "Bloodsail Corsair", "Elven Archer", "Sense Demons", "Murloc Tidecaller", "Murloc Tidehunter", "Flame Imp", "Lord Jaraxxus", "Loot Hoarder"]

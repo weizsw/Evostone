@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Acolyte of Pain", "Dragonling Mechanic", "Pit Lord", "Angry Chicken", "Dragonling Mechanic", "Pit Lord", "Angry Chicken", "Felguard", "Spellbreaker", "Gruul", "Baron Geddon", "Injured Blademaster", "Tinkmaster Overspark", "Flame Imp", "Summoning Portal", "Dread Infernal", "Acidic Swamp Ooze", "Goldshire Footman", "Acolyte of Pain", "Shadow Bolt", "Soulfire", "The Beast", "Ogre Magi", "Drain Life", "Soulfire", "Dread Infernal", "Arcane Golem", "Elven Archer", "Lord Jaraxxus", "Defender of Argus"]

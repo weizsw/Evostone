@@ -1,0 +1,5 @@
+PoolName = "Meta Decks"
+[[Decks]]
+DeckName = "test"
+ClassName = "Warlock"
+CardList = ["Shadow Bolt", "Drain Life", "Dread Infernal", "Ancient Brewmaster", "Abomination", "Blood Imp", "Malygos", "Jungle Panther", "Mana Addict", "Injured Blademaster", "Felguard", "Twisting Nether", "Pit Lord", "Nightblade", "Stormwind Knight", "Pit Lord", "Ancient Mage", "Jungle Panther", "Darkscale Healer", "Sacrificial Pact", "Shadow Bolt", "Mortal Coil", "Stormpike Commando", "Soulfire", "Bloodmage Thalnos", "The Beast", "Injured Blademaster", "Bloodsail Corsair", "Lord of the Arena", "Felguard"]
